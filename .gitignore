@@ -1,0 +1,78 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories.
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Dd]x/
+[Oo]bj/
+[Bb]in/
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore .NET Core build results
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Rider & Xamarin specific files
+.idea/
+.vscode/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/vcs.xml
+.idea/*.html
+.idea/modules.xml
+.idea/.name
+.idea/.idea/
+.idea/.idea/workspace.xml
+.idea/.idea/tasks.xml
+.idea/.idea/dictionaries
+.idea/.idea/libraries
+.idea/.idea/vcs.xml
+.idea/.idea/*.html
+.idea/.idea/modules.xml
+.idea/.idea/.name
+
+# Ignore JetBrains Rider
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.idea/
+.idea/.idea/workspace.xml
+.idea/.idea/tasks.xml
+.idea/.idea/dictionaries
+.idea/.idea/libraries
+.idea/.idea/.idea/
+
+# Ignore files for tye
+.tye/
+.TYE/
+
+# Ignore global Windows line endings
+*.inputlines
+
+# Ignore any generated meta files
+*.meta
+
+# Ignore local history for Visual Studio 2017
+**/_ReSharper*/
+_ReSharper*/
+
+# Ignore .NET Core SDK related files
+global.json
+
+# Ignore VS Code files
+.vscode/
+
+# Other
+*.temp
